@@ -1,2 +1,2 @@
 Join my discord server.
-invite:
+invite:https://discord.com/invite/Ymyvw8hP9U
